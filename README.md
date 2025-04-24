@@ -32,6 +32,8 @@ From kali linux issue the command :
 sudo arpspoof -i eth0 -t <target system> <gateway>
 ## OUTPUT:
 
+![324251000-fe31b4ad-3f7c-420c-98b2-a744753543b3](https://github.com/user-attachments/assets/86f59e28-5e6b-48e7-8473-753732279cbf)
+
 
 
  dsniff:
